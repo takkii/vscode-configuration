@@ -1,13 +1,9 @@
 {
   "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
   "window.commandCenter": false,
-  // Current Windows / else, change path and username.
-  "solargraph.commandPath": "C:/Users/sudok/scoop/apps/ruby/current/gems/bin/solargraph",
   "workbench.iconTheme": "vscode-icons",
   "workbench.startupEditor": "none",
   "explorer.confirmDelete": false,
-  // Current Windows / else, change path and username.
-  "vscode-erb-beautify.executePath": "C:/Users/sudok/scoop/apps/ruby/current/gems/bin/htmlbeautifier",
   "redhat.telemetry.enabled": false,
   "jdk.telemetry.enabled": false,
   "workbench.settings.applyToAllProfiles": [],
@@ -52,12 +48,6 @@
   "cSpell.userWords": [
     "django",
     "Impl",
-  ],
-  "todo-tree.general.tags": [
-    "BUG",
-    "HACK",
-    "FIXME",
-    "TODO",
   ],
   "python.analysis.indexing": true,
   "python.analysis.autoSearchPaths": true,
@@ -124,5 +114,7 @@
   "[github-actions-workflow]": {
     "editor.defaultFormatter": "redhat.vscode-yaml"
   },
-  "vsicons.dontShowNewVersionMessage": true
+  "vsicons.dontShowNewVersionMessage": true,
+  "extensions.ignoreRecommendations": true,
+  "lldb.suppressUpdateNotifications": true
 }
