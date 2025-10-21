@@ -1,8 +1,6 @@
 code --install-extension aaron-bond.better-comments
-code --install-extension aliariff.vscode-erb-beautify
 code --install-extension angular.ng-template
 code --install-extension batisteo.vscode-django
-code --install-extension castwide.solargraph
 code --install-extension christian-kohler.path-intellisense
 code --install-extension eservice-online.vs-sharper
 code --install-extension formulahendry.code-runner
@@ -41,5 +39,4 @@ code --install-extension shardulm94.trailing-spaces
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension tombonnike.vscode-status-bar-format-toggle
 code --install-extension vadimcn.vscode-lldb
-code --install-extension vortizhe.simple-ruby-erb
 code --install-extension vscode-icons-team.vscode-icons
