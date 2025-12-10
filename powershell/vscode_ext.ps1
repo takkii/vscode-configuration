@@ -2,6 +2,7 @@ code --install-extension aaron-bond.better-comments
 code --install-extension angular.ng-template
 code --install-extension batisteo.vscode-django
 code --install-extension christian-kohler.path-intellisense
+code --install-extension eeyore.yapf
 code --install-extension eservice-online.vs-sharper
 code --install-extension formulahendry.code-runner
 code --install-extension formulahendry.dotnet-test-explorer
@@ -20,7 +21,6 @@ code --install-extension ms-azuretools.vscode-containers
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-dotnettools.csharp
 code --install-extension ms-dotnettools.vscode-dotnet-runtime
-code --install-extension ms-python.black-formatter
 code --install-extension ms-python.debugpy
 code --install-extension ms-python.flake8
 code --install-extension ms-python.isort
