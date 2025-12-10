@@ -6,7 +6,9 @@
   "explorer.confirmDelete": false,
   "redhat.telemetry.enabled": false,
   "jdk.telemetry.enabled": false,
-  "workbench.settings.applyToAllProfiles": [],
+  "workbench.settings.applyToAllProfiles": [
+  
+  ],
   "mypy-type-checker.args": [
     "--allow-redefinition",
     "--check-untyped-defs",
@@ -18,12 +20,14 @@
   ],
   "mypy-type-checker.importStrategy": "fromEnvironment",
   "[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSaveMode": "file",
     "editor.formatOnSave": true,
-    "editor.codeActionsOnSave": {
-      "source.organizeImports": "explicit"
-    },
+    "editor.defaultFormatter": "eeyore.yapf",
+    "editor.formatOnType": false
   },
+  "yapf.cellMagics": [
+    "matplotlib inline"
+  ],
   "isort.args": [
     "--profile",
     "black"
