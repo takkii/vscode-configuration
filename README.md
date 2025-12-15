@@ -22,8 +22,9 @@ scoop install ruby
 # 外部のRubygems依存ライブラリをインストールします。
 gem install solargraph htmlbeautifier
 
-# vscode extensions, Use yapf.
+# Add, vscode extensions.
 pip3 install yapf
+pip3 install isort
 ```
 
 #### Lang / Font

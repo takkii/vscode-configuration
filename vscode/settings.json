@@ -6,9 +6,7 @@
   "explorer.confirmDelete": false,
   "redhat.telemetry.enabled": false,
   "jdk.telemetry.enabled": false,
-  "workbench.settings.applyToAllProfiles": [
-  
-  ],
+  "workbench.settings.applyToAllProfiles": [],
   "mypy-type-checker.args": [
     "--allow-redefinition",
     "--check-untyped-defs",
@@ -120,5 +118,9 @@
   },
   "vsicons.dontShowNewVersionMessage": true,
   "extensions.ignoreRecommendations": true,
-  "lldb.suppressUpdateNotifications": true
+  "lldb.suppressUpdateNotifications": true,
+  "editor.codeActionsOnSave": {
+    
+    "source.organizeImports": true
+  }
 }
