@@ -1,6 +1,5 @@
 ```markdown
 aaron-bond.better-comments
-angular.ng-template
 batisteo.vscode-django
 christian-kohler.path-intellisense
 eeyore.yapf
@@ -8,6 +7,7 @@ eservice-online.vs-sharper
 formulahendry.code-runner
 formulahendry.dotnet-test-explorer
 github.github-vscode-theme
+jakebecker.elixir-ls
 jesschadwick.nuget-reverse-package-search
 jinxdash.prettier-rust
 jmrog.vscode-nuget-package-manager
@@ -59,7 +59,6 @@ vscode-icons-team.vscode-icons
 
 ```markdown
 code --install-extension aaron-bond.better-comments
-code --install-extension angular.ng-template
 code --install-extension batisteo.vscode-django
 code --install-extension christian-kohler.path-intellisense
 code --install-extension eeyore.yapf
@@ -67,6 +66,7 @@ code --install-extension eservice-online.vs-sharper
 code --install-extension formulahendry.code-runner
 code --install-extension formulahendry.dotnet-test-explorer
 code --install-extension github.github-vscode-theme
+code --install-extension jakebecker.elixir-ls
 code --install-extension jesschadwick.nuget-reverse-package-search
 code --install-extension jinxdash.prettier-rust
 code --install-extension jmrog.vscode-nuget-package-manager
