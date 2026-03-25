@@ -1,25 +1,28 @@
 ### README
 
 ```markdown
-# /vscode/extensions/README.md
+# vscode_config2/vscode/extensions/README.md
 テキストエディタの正規表現を利用し前処理を行いデータ加工をする。
 
-# /vscode/settings.json
+# vscode_config2/vscode/settings.json
 File → Preferences → settings → search settings  → "settings." write in bar  →  Edit in settings.json
 /vscode/settings.jsonの内容をコピー&ペーストする。
 
 # Windowsターミナル/Powershell上で実行する
-cd vscode_ext/powershell/vscode_ext.ps1
+cd vscode_config2/powershell/vscode_ext.ps1
 .\vscode_ext.ps1
 ```
 
 #### Use [Scoop](https://scoop.sh/)
 
 ```markdown
-# python / nodejs / cmake インストール
+# Scoop install
 scoop install ruby
+scoop install cmake
+scoop install erlang
+scoop install elixir
 
-# 外部のRubygems依存ライブラリをインストールします。
+# Rubygems依存ライブラリをインストールします。
 gem install solargraph htmlbeautifier
 
 # Add, vscode extensions.
@@ -32,5 +35,7 @@ pip3 install isort
 - [Rust](https://rustup.rs/)、ドキュメントを読んでインストールしてください。
 
 - GitHub/[Hackgen](https://github.com/yuru7/HackGen)、フォントを[2種類](https://github.com/yuru7/HackGen/releases)インストールしてください。
+
+- [Elixir](https://elixir-lang.org/install.html#windows)、ドキュメントを読んで設定してください。
 
 ※ まだスタックトレースが流れる場合、英文を読んで不足しているものをインストールしてください。
