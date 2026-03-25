@@ -48,7 +48,7 @@
   "editor.tabSize": 2,
   "editor.trimAutoWhitespace": false,
   "editor.wordWrap": "wordWrapColumn",
-  "editor.wordWrapColumn": 120,
+  "editor.wordWrapColumn": 100,
   "editor.wordBasedSuggestions": "off",
   "chat.disableAIFeatures": true,
   "files.insertFinalNewline": true,
@@ -81,10 +81,6 @@
       "name": "fastapi",
       "depth": 2
     },
-  ],
-  "black-formatter.args": [
-    "--line-length=120",
-    "--skip-string-normalization"
   ],
   "python.testing.pytestEnabled": true,
   "[json]": {
@@ -129,5 +125,6 @@
   "lldb.suppressUpdateNotifications": true,
   "editor.codeActionsOnSave": {
     "source.organizeImports": "explicit"
-  }
+  },
+  "editor.wrapOnEscapedLineFeeds": true
 }
