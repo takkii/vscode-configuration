@@ -1,14 +1,11 @@
 {
-  "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+  "workbench.colorTheme": "Tokyo Night",
   "window.commandCenter": false,
   "workbench.iconTheme": "vscode-icons",
   "workbench.startupEditor": "none",
   "explorer.confirmDelete": false,
   "redhat.telemetry.enabled": false,
-  "jdk.telemetry.enabled": false,
-  "workbench.settings.applyToAllProfiles": [
-  
-  ],
+  "workbench.settings.applyToAllProfiles": [],
   "mypy-type-checker.args": [
     "--allow-redefinition",
     "--check-untyped-defs",
@@ -126,5 +123,7 @@
   "editor.codeActionsOnSave": {
     "source.organizeImports": "explicit"
   },
-  "editor.wrapOnEscapedLineFeeds": true
+  "editor.wrapOnEscapedLineFeeds": true,
+  "jdk.telemetry.enabled": false,
+  "debug.breakpointsView.presentation": "tree"
 }
