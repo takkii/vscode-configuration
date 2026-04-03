@@ -2,10 +2,10 @@ code --install-extension aaron-bond.better-comments
 code --install-extension batisteo.vscode-django
 code --install-extension christian-kohler.path-intellisense
 code --install-extension eeyore.yapf
+code --install-extension enkia.tokyo-night
 code --install-extension eservice-online.vs-sharper
 code --install-extension formulahendry.code-runner
 code --install-extension formulahendry.dotnet-test-explorer
-code --install-extension github.github-vscode-theme
 code --install-extension jakebecker.elixir-ls
 code --install-extension jesschadwick.nuget-reverse-package-search
 code --install-extension jinxdash.prettier-rust
@@ -29,6 +29,7 @@ code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
 code --install-extension ms-python.vscode-python-envs
 code --install-extension ms-vscode.cmake-tools
+code --install-extension ms-vscode.cpp-devtools
 code --install-extension ms-vscode.cpptools
 code --install-extension oderwat.indent-rainbow
 code --install-extension oracle.oracle-java
