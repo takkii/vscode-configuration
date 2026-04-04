@@ -2,6 +2,7 @@
 aaron-bond.better-comments
 batisteo.vscode-django
 christian-kohler.path-intellisense
+ecmel.vscode-html-css
 eeyore.yapf
 enkia.tokyo-night
 eservice-online.vs-sharper
@@ -18,6 +19,7 @@ mechatroner.rainbow-csv
 mgesbert.python-path
 mikestead.dotenv
 mosapride.zenkaku
+mrmlnc.vscode-scss
 ms-azuretools.vscode-containers
 ms-azuretools.vscode-docker
 ms-dotnettools.csharp
@@ -36,6 +38,7 @@ oderwat.indent-rainbow
 oracle.oracle-java
 patcx.vscode-nuget-gallery
 redhat.vscode-yaml
+ritvyk.heex-html
 rust-lang.rust-analyzer
 shardulm94.trailing-spaces
 streetsidesoftware.code-spell-checker
@@ -62,6 +65,7 @@ vscode-icons-team.vscode-icons
 code --install-extension aaron-bond.better-comments
 code --install-extension batisteo.vscode-django
 code --install-extension christian-kohler.path-intellisense
+code --install-extension ecmel.vscode-html-css
 code --install-extension eeyore.yapf
 code --install-extension enkia.tokyo-night
 code --install-extension eservice-online.vs-sharper
@@ -78,6 +82,7 @@ code --install-extension mechatroner.rainbow-csv
 code --install-extension mgesbert.python-path
 code --install-extension mikestead.dotenv
 code --install-extension mosapride.zenkaku
+code --install-extension mrmlnc.vscode-scss
 code --install-extension ms-azuretools.vscode-containers
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-dotnettools.csharp
@@ -96,6 +101,7 @@ code --install-extension oderwat.indent-rainbow
 code --install-extension oracle.oracle-java
 code --install-extension patcx.vscode-nuget-gallery
 code --install-extension redhat.vscode-yaml
+code --install-extension ritvyk.heex-html
 code --install-extension rust-lang.rust-analyzer
 code --install-extension shardulm94.trailing-spaces
 code --install-extension streetsidesoftware.code-spell-checker
