@@ -5,7 +5,9 @@
   "workbench.startupEditor": "none",
   "explorer.confirmDelete": false,
   "redhat.telemetry.enabled": false,
-  "workbench.settings.applyToAllProfiles": [],
+  "workbench.settings.applyToAllProfiles": [
+    
+  ],
   "mypy-type-checker.args": [
     "--allow-redefinition",
     "--check-untyped-defs",
@@ -125,5 +127,11 @@
   },
   "editor.wrapOnEscapedLineFeeds": true,
   "jdk.telemetry.enabled": false,
-  "debug.breakpointsView.presentation": "tree"
+  "debug.breakpointsView.presentation": "tree",
+  "css.enabledLanguages": [
+    "html"
+  ],
+  "css.styleSheets": [
+    "assets/**/*.css"
+  ]
 }
