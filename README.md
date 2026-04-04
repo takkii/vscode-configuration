@@ -17,13 +17,9 @@ cd vscode_config2/powershell/vscode_ext.ps1
 
 ```markdown
 # Scoop install
-scoop install ruby
 scoop install cmake
 scoop install erlang
 scoop install elixir
-
-# Rubygems依存ライブラリをインストールします。
-gem install solargraph htmlbeautifier
 
 # Add, vscode extensions.
 pip3 install yapf
