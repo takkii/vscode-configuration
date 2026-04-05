@@ -1,5 +1,9 @@
 ### README
 
+<div align="center">
+  <p><img src="./images/ladybug.gif"></p>
+</div>
+
 ```markdown
 # ./vscode/extensions/README.md
 テキストエディタの正規表現を利用し前処理を行いデータ加工をする。
