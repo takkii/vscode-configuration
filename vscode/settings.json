@@ -6,7 +6,7 @@
   "explorer.confirmDelete": false,
   "redhat.telemetry.enabled": false,
   "workbench.settings.applyToAllProfiles": [
-    
+  
   ],
   "mypy-type-checker.args": [
     "--allow-redefinition",
@@ -135,5 +135,7 @@
     "assets/**/*.css"
   ],
   "npm.packageManager": "auto",
-  "elixirLS.dialyzerEnabled": false
+  "elixirLS.dialyzerWarnOpts": [
+    "no_return"
+  ]
 }
