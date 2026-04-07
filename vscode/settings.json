@@ -5,7 +5,9 @@
   "workbench.startupEditor": "none",
   "explorer.confirmDelete": false,
   "redhat.telemetry.enabled": false,
-  "workbench.settings.applyToAllProfiles": [],
+  "workbench.settings.applyToAllProfiles": [
+    
+  ],
   "mypy-type-checker.args": [
     "--allow-redefinition",
     "--check-untyped-defs",
@@ -132,5 +134,6 @@
   "css.styleSheets": [
     "assets/**/*.css"
   ],
-  "npm.packageManager": "auto"
+  "npm.packageManager": "auto",
+  "elixirLS.dialyzerEnabled": false
 }
