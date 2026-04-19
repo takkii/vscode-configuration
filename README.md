@@ -13,8 +13,12 @@ File → Preferences → settings → search settings  → "settings." write in 
 /vscode/settings.jsonの内容をコピー&ペーストする。
 
 # Windowsターミナル/Powershell上で実行する
-cd ./powershell/vscode_ext.ps1
+cd ./powershell
 .\vscode_ext.ps1
+
+# Ubuntu24.04/shellを実行する
+cd ./sh
+./vscode_ext.sh
 ```
 
 #### Use [Scoop](https://scoop.sh/)
