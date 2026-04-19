@@ -17,6 +17,10 @@ cd ./powershell
 # Ubuntu24.04/shellを実行する
 cd ./sh
 ./vscode_ext.sh
+
+# 許可がありません
+cd ./sh
+chmod +x ./vocode_ext.sh
 ```
 
 #### Use [Scoop](https://scoop.sh/)
