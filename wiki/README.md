@@ -20,7 +20,7 @@ cd ./sh
 
 # 許可がありません
 cd ./sh
-chmod +x ./vocode_ext.sh
+chmod +x ./vscode_ext.sh
 ```
 
 #### Use [Scoop](https://scoop.sh/)
