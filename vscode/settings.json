@@ -15,7 +15,8 @@
     "--no-strict-optional",
     "--no-warn-no-return",
     "--warn-return-any",
-    "--warn-redundant-casts"
+    "--warn-redundant-casts",
+    "ignore-without-code"
   ],
   "mypy-type-checker.importStrategy": "fromEnvironment",
   "[python]": {
