@@ -1,6 +1,6 @@
 ### vscode-configuration
 
-> 環境構築の説明
+> Windows11 環境構築
 
 ```markdown
 # ./vscode/extensions/README.md
@@ -14,7 +14,7 @@ File → Preferences → settings → search settings  → "settings." write in 
 cd ./powershell
 .\vscode_ext.ps1
 
-# Ubuntu24.04/shellを実行する
+# Hyper-V/Ubuntu24.04/shellを実行する
 cd ./sh
 ./vscode_ext.sh
 
