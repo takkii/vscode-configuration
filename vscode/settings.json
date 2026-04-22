@@ -138,5 +138,6 @@
   "npm.packageManager": "auto",
   "elixirLS.dialyzerWarnOpts": [
     "no_return"
-  ]
+  ],
+  "solargraph.commandPath": "solargraph.bat"
 }
