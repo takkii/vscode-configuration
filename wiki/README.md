@@ -30,6 +30,7 @@ chmod +x ./vscode_ext.sh
 scoop install cmake
 scoop install erlang
 scoop install elixir
+scoop install deno
 
 # Add, vscode extensions.
 pip3 install yapf
@@ -43,5 +44,7 @@ pip3 install isort
 - GitHub/[Hackgen](https://github.com/yuru7/HackGen)、フォントを[2種類](https://github.com/yuru7/HackGen/releases)インストールしてください。
 
 - [Elixir](https://elixir-lang.org/install.html#windows)、ドキュメントを読んで設定してください。
+
+- [Deno](https://deno.com/)、開発環境に合わせてインストールしてください。
 
 ※ まだスタックトレースが流れる場合、英文を読んで不足しているものをインストールしてください。
