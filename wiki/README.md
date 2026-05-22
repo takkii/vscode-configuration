@@ -45,6 +45,6 @@ pip3 install isort
 
 - [Elixir](https://elixir-lang.org/install.html#windows)、ドキュメントを読んで設定してください。
 
-- [Deno](https://deno.com/)、インストールしてください。
+- [Deno](https://deno.com/)、開発環境に合わせてインストールしてください。
 
 ※ まだスタックトレースが流れる場合、英文を読んで不足しているものをインストールしてください。
